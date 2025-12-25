@@ -353,30 +353,14 @@ pip install -r requirements.txt --force-reinstall
 - حدث التوثيق عند الحاجة | Update documentation when needed
 - استخدم رسائل commit واضحة | Use clear commit messages
 
-## 📄 الترخيص | License
 
-هذا المشروع مرخص تحت رخصة MIT - راجع ملف [LICENSE](LICENSE) للتفاصيل.
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 شكر وتقدير | Acknowledgments
 
 - **MediaPipe** - لتقنيات كشف الوجوه والحركة
 - **OpenCV** - لمعالجة الصور والفيديو
 - **CustomTkinter** - لواجهة المستخدم الحديثة
 - **Face Recognition** - لتقنيات التعرف على الوجوه
-- **Librosa** - لمعالجة الصوت والتحليل
+- **Librosa** - [Discussions](https://github.com/your-repo/discussions)
 
-## 📞 الدعم والتواصل | Support & Contact
-
-- **البريد الإلكتروني** | Email: support@videocharacterreplacement.com
-- **المشاكل** | Issues: [GitHub Issues](https://github.com/your-repo/issues)
-- **الوثائق** | Documentation: [Wiki](https://github.com/your-repo/wiki)
-- **المجتمع** | Community: [Discussions](https://github.com/your-repo/discussions)
-
----
-
-<div align="center">
 
 **صُنع بـ ❤️ لمجتمع المطورين العرب**
 
